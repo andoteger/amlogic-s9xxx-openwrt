@@ -9,7 +9,7 @@
 # Add a feed source
 # sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
-#git clone https://github.com/andoteger/OpenClash.git package/OpenClash
+git clone https://github.com/andoteger/OpenClash.git package/OpenClash
 
 # other
 # rm -rf package/utils/{ucode,fbtest}
